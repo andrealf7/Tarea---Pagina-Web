@@ -212,3 +212,11 @@ nav ul li a{
 #referenciah1{
     margin-top: 35px;
 }   
+#github{
+    text-decoration: none;
+    color: rgb(238, 255, 0);
+    font-size: 25px;
+}
+#Conocimientos{
+    margin-top: 25px;
+}   
