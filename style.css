@@ -7,7 +7,7 @@
 .encabezado{
     width: 100%;
     height: 100vh;
-    background-image: url(imagenes/FondoAndrea.png);
+    background-image: url(Imagenes/FondoAndrea.png);
     background-position: center;
     background-size: cover;
     padding-left: 10%;
@@ -61,7 +61,7 @@ nav ul li a{
     height: 130%;
     width: 60%;
     margin-left: 50px;
-    background-image: linear-gradient(rgba(248, 248, 248, 0), rgba(57, 6, 240, 0.363)), url(imagenes/Perfil.jpg);
+    background-image: linear-gradient(rgba(248, 248, 248, 0), rgba(57, 6, 240, 0.363)), url(Imagenes/Perfil.jpg);
     background-blend-mode:lighten;
     border-radius: 10%;
 }
