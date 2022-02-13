@@ -202,3 +202,13 @@ nav ul li a{
 .info9 p a{
     color: rgb(255, 255, 255);
 }
+.contenedor-referencias{
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}   
+#referenciah1{
+    margin-top: 35px;
+}   
